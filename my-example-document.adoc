@@ -24,4 +24,3 @@
 *** Include in your CI/CD pipeline
 ** Antora
 *** Multi-Repository documentation site generator for tech writers who writes in AsciiDoc
-
