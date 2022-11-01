@@ -9,7 +9,7 @@ Technologies involved:
 
 ## Prerequisites
 
-* Install [Asciidoctor](https://docs.asciidoctor.org/asciidoctor), [Asciidoctor Diagrams](https://docs.asciidoctor.org/diagram-extension/latest/) and [Asciidoctor PDF](https://docs.asciidoctor.org/pdf-converter/latest/)
+* Install [Asciidoctor](https://docs.asciidoctor.org/asciidoctor), [Asciidoctor PDF](https://docs.asciidoctor.org/pdf-converter/latest/)
     * [Asciidoctor](https://docs.asciidoctor.org/asciidoctor/latest/install/)
    latest/)
     * [Asciidoctor-PDF](https://docs.asciidoctor.org/pdf-converter/latest/install/)
