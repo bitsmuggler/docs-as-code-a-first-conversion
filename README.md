@@ -3,7 +3,6 @@ This is a simple example of how to use documentation as code.
 
 Technologies involved:
 
-* [arc42](https://arc42.org/) to get the structure for the software architecture documentation
 * [AsciiDoc](https://asciidoc.org/) as format to write the software architecture documentation
 * [Asciidoctor](https://docs.asciidoctor.org/asciidoctor) to generate the representations of the software architecture documentation written in asciidoc 
 
