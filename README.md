@@ -8,11 +8,9 @@ Technologies involved:
 * [Asciidoctor](https://docs.asciidoctor.org/asciidoctor) to generate the representations of the software architecture documentation written in asciidoc 
 
 ## Prerequisites
-
-* Install [Asciidoctor](https://docs.asciidoctor.org/asciidoctor), [Asciidoctor PDF](https://docs.asciidoctor.org/pdf-converter/latest/)
-    * [Asciidoctor](https://docs.asciidoctor.org/asciidoctor/latest/install/)
-   latest/)
-    * [Asciidoctor-PDF](https://docs.asciidoctor.org/pdf-converter/latest/install/)
+Install Asciidoctor and the Asciidoctor-PDF extension:
+* [Asciidoctor](https://docs.asciidoctor.org/asciidoctor/latest/install/)
+* [Asciidoctor-PDF](https://docs.asciidoctor.org/pdf-converter/latest/install/)
 
 ## Generate the software architecture documentation representations
 
