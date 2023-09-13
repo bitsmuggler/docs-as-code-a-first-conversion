@@ -1,7 +1,12 @@
 = Documentation as Code
+:toc: auto
 
 == Treat documentation as code
+
+=== What is Documentation as Code?
 * _Documentation as Code_ means your documentation process benefits from the same practices as your software development process. This includes version control, automated testing, and continuous integration. It also means that your documentation is written in a format that can be easily converted to other formats, such as HTML, PDF, and EPUB. 
+
+=== Practices of Documentation as Code
 
 * Some of these practices include
 ** Storing content in a version control system
