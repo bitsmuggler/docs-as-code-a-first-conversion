@@ -1,0 +1,12 @@
+@startuml
+
+actor user
+participant catalogueService
+database database
+
+user -> catalogueService : search
+catalogueService -> database : select items
+database -> catalogueService : selected items
+catalogueService -> user : display item
+
+@enduml

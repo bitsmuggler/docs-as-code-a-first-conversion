@@ -1,0 +1,28 @@
+@startuml
+
+class vehicle {
+    +int speed
+    +int direction
+    +String owner
+    +String plate
+    +int weight
+}
+
+class car {
+    +int numberOfDoors
+}
+
+class motorcycle {
+    +boolean hasSideCar
+}
+
+class human {
+    +String name
+}
+
+vehicle <|-- car
+vehicle <|-- motorcycle
+human "1" o--> "*" vehicle : owns
+
+
+@enduml

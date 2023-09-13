@@ -24,3 +24,26 @@
 *** Include in your CI/CD pipeline
 ** Antora
 *** Multi-Repository documentation site generator for tech writers who writes in AsciiDoc
+
+
+== Embedding PlantUML diagrams
+
+=== Example Sequence Diagram
+
+[plantuml, sequence-diagram]
+----
+include::example-sequencediagram.puml[]
+----
+
+=== Example Class Diagram
+
+[plantuml, class-diagram]
+----
+include::example-classdiagram.puml[]
+----
+
+[mermaid, sequence-diagrammermaid]
+----
+include::example-classdiagram.md[]
+----
+
