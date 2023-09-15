@@ -2,3 +2,5 @@
 *.html
 *.png
 .asciidoctor
+dtcw
+.gradle
