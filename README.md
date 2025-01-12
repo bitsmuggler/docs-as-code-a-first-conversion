@@ -17,11 +17,11 @@ Install Asciidoctor and the Asciidoctor-PDF extension:
 **Generate the documentation as HTML representation**
 
 ``
-asciidoctor -b html5 my-example-document.adoc
+asciidoctor -b html5 index.adoc
 ``
 
 **Generate the documentation as PDF representation**
 
 ``
-asciidoctor -b pdf -r asciidoctor-pdf  my-example-document.adoc
+asciidoctor -b pdf -r asciidoctor-pdf  index.adoc
 ``

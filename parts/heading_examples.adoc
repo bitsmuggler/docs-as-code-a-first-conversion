@@ -1,0 +1,9 @@
+== Heading Examples
+
+=== Level 3 Heading
+This is a level 3 heading.
+
+==== Level 4 Heading
+This is a level 4 heading.
+
+Use headings to organize your content hierarchically.

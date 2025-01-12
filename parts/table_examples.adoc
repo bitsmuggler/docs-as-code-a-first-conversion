@@ -1,0 +1,20 @@
+== Table Examples
+
+=== AsciiDoc Table
+
+.AsciiDoc Table Example
+|===
+| Header 1 | Header 2 | Header 3
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3
+|===
+
+=== CSV Table
+
+[%header,format=csv]
+.CSV Table Example
+|===
+Artist,Track,Genre
+Baauer,Harlem Shake,Hip Hop
+The Lumineers,Ho Hey,Folk Rock
+|===

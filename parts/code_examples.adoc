@@ -1,0 +1,11 @@
+== Code Examples
+
+[source, python]
+----
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("AsciiDoc"))
+----
+
+Inline `code` example: `print("Hello, World!")`.
