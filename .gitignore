@@ -1,6 +1,5 @@
 *.pdf
 *.html
-*.png
 .asciidoctor
 dtcw
 .gradle

@@ -1,6 +1,6 @@
 == Image Examples
 
 .Image with Caption
-image::example.webp[Example Image, width=400, align=center]
+image::example.png[Example Image, width=400, align=center]
 
 You can include images with captions and specify their size and alignment.
