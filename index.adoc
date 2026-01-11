@@ -17,12 +17,17 @@ This site is built with AsciiDoc to showcase its capabilities in creating beauti
 - Links
 - Custom Styling
 
+<<<
 include::parts/format-list_examples.adoc[]
 
+<<<
 include::parts/heading_examples.adoc[]
 
+<<<
 include::parts/table_examples.adoc[]
 
+<<<
 include::parts/code_examples.adoc[]
 
+<<<
 include::parts/image_examples.adoc[]
