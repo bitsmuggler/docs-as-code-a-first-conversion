@@ -1,0 +1,31 @@
+= Documentation as Code – A first conversion
+
+This is a simple example of how to use documentation as code.
+
+== Technologies involved
+
+* https://asciidoc.org/[AsciiDoc] as format to write the software architecture documentation
+* https://docs.asciidoctor.org/asciidoctor[Asciidoctor] to generate the representations of the software architecture documentation written in AsciiDoc
+
+== Prerequisites
+
+Install Asciidoctor and the Asciidoctor-PDF extension:
+
+* https://docs.asciidoctor.org/asciidoctor/latest/install/[Asciidoctor]
+* https://docs.asciidoctor.org/pdf-converter/latest/install/[Asciidoctor-PDF]
+
+== Generate the software architecture documentation representations
+
+=== Generate the documentation as HTML representation
+
+[source,bash]
+----
+asciidoctor -b html5 index.adoc
+----
+
+=== Generate the documentation as PDF representation
+
+[source,bash]
+----
+asciidoctor -b pdf -r asciidoctor-pdf index.adoc
+----

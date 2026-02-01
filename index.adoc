@@ -1,7 +1,6 @@
 = My Awesome AsciiDoc Site
 Author Name
 :toc: left
-:source-highlighter: rouge
 
 Welcome to the AsciiDoc example site! This site demonstrates the essential features of AsciiDoc.
 
